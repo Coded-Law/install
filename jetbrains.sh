@@ -6,6 +6,6 @@ sudo mv ~/Downloads/jetbrains-toolbox-2.1.1.18388 /opt/
 
 cd /opt/jetbrains-toolbox-2.1.1.18388/
 
-rm -rf jetbrains-toolbox-2.1.1.18388.tar.gz
+rm -rf ~/Downloads/jetbrains-toolbox-2.1.1.18388.tar.gz
 
 ./jetbrains-toolbox
