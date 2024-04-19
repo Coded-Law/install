@@ -7,7 +7,7 @@ sudo apt update
 sudo apt install git
 ```
 ```
-git clone [https://github.com/user/repository.git](https://github.com/Coded-Law/install.git)
+git clone https://github.com/Coded-Law/install.git
 ```
 ```
 cd install
