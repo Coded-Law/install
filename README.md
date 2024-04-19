@@ -1,7 +1,25 @@
 # Coded Law Install Script
 Install script for CodedLaw machines installation,install the listed software by cloing this repo and running:
-```bash
-bash ./install.sh
+```
+sudo apt update
+```
+```
+sudo apt install git
+```
+```
+git clone https://github.com/user/repository.git
+```
+```
+cd install
+```
+```
+chmod +x install.sh
+```
+```
+./install.sh
+```
+```
+rm -rf install
 ```
 
 ### 1. Docker 
